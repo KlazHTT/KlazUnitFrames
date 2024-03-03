@@ -18,6 +18,14 @@ There are no in-game options. All settings are hard-coded.
 
 ## Screenshots
 
+Example of player frame with class coloured health status bar and darker textures:
+
+![](https://forge.haothitran.com/KlazHTT/KlazUnitFrames/raw/branch/main/Media/Screenshot_PlayerFrame.png)
+
+Example of target frame with class coloured health status bar:
+
+![](https://forge.haothitran.com/KlazHTT/KlazUnitFrames/raw/branch/main/Media/Screenshot_TargetFrame.jpg)
+
 Example of timer on player cast bar:
 
 ![](https://forge.haothitran.com/KlazHTT/KlazUnitFrames/raw/branch/main/Media/Screemshot_CastBar.jpg)
