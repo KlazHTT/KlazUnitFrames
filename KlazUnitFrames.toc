@@ -1,0 +1,10 @@
+## Interface: 100205
+## Title: Klaz|cff1994ffUnitFrames|r
+## Author: Klaz
+## Notes: Styles default unit frames.
+## IconTexture: Interface\AddOns\KlazUnitFrames\Media\KlazAddOnIcon.blp
+
+Modules\CastBarTimers.lua
+Modules\DarkerTextures.lua
+Modules\Hide.lua
+Modules\StatusBars.lua
