@@ -8,6 +8,7 @@ hiddenFrame:Hide()
 PlayerFrame:HookScript('OnEvent', function()
   -- hide rested breathing glow
   PlayerFrame.PlayerFrameContent.PlayerFrameContentMain.StatusTexture:SetParent(hiddenFrame)
+
   -- hide player damage and healing received text
   PlayerFrame.PlayerFrameContent.PlayerFrameContentMain.HitIndicator.HitText:Hide()
 
