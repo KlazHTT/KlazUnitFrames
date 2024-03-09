@@ -27,9 +27,6 @@ f:SetScript('OnEvent', function(self, event)
       v:SetVertexColor(0.1, 0.1, 0.1, 1)
   end
 
-  TargetFrame.TargetFrameContent.TargetFrameContentMain.ReputationColor:Hide()
-  FocusFrame.TargetFrameContent.TargetFrameContentMain.ReputationColor:Hide()
-
   for i, v in pairs ({
     -- paladin holy power
     PaladinPowerBarFrame.Background,    -- no holy power
